@@ -23,4 +23,17 @@ The goal of this project is to analyze disease patterns, seasonal trends, and re
 - Identify disease trends across **species**, **regions**, and **years**  
 - Explore seasonal patterns in outbreaks  
 - Generate predictive insights using historical trends  
-- Demonstrate the capability of big data tools in scientific/public health applications  
+- Demonstrate the capability of big data tools in scientific/public health applications
+
+## 
+📥 Dataset Information
+
+-The dataset is sourced from Kaggle and includes:
+-Species
+-Disease
+-Region
+-Year
+-Outbreak Count
+
+Due to Kaggle licensing rules, the dataset is not included in this repository.
+Users may obtain it directly from Kaggle and load it into their Hadoop environment.
