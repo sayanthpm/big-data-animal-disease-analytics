@@ -29,10 +29,15 @@ The goal of this project is to analyze disease patterns, seasonal trends, and re
 📥 Dataset Information
 
 -The dataset is sourced from Kaggle and includes:
+
 -Species
+
 -Disease
+
 -Region
+
 -Year
+
 -Outbreak Count
 
 Due to Kaggle licensing rules, the dataset is not included in this repository.
