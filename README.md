@@ -27,6 +27,7 @@ The goal of this project is to analyze disease patterns, seasonal trends, and re
 
 ## 
 📥 Dataset Information
+https://www.kaggle.com/datasets/maryam18/animal-disease-classification
 
 -The dataset is sourced from Kaggle and includes:
 
